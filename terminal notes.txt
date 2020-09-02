@@ -1,0 +1,20 @@
+Use lower case letterins in gitbash
+~ = represents the current user home folder
+..  = represents the parent folder
+. = folder itself
+/  = root floder of the file system
+cd  = "change directory (ex. cd Documents; cd coding)
+ls = "list in current directory
+mkdir = create file
+ctrl x = exit out of nano
+
+*git init = repository (coverts a folder and makes a depository)*
+
+the (master) tells you that you are in a specific branch in git
+ls -a =hidden folder
+
+*To view hidden files and folders*
+Files>change folder and search option>view>show hidden files
+
+
+
