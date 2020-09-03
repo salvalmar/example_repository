@@ -26,7 +26,7 @@ get add . (add files due to change of name)
 
 git-scm.com/docs/git-commit website to show you all comands on git
 
-git remote -v
+git remote -v (list any remote dipository)
 
 git push -u orgin master (1 time and then only apply git push)
 
