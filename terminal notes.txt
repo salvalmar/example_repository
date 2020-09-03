@@ -13,8 +13,21 @@ ctrl x = exit out of nano
 the (master) tells you that you are in a specific branch in git
 ls -a =hidden folder
 
-*To view hidden files and folders*
+ls -a *To view hidden files and folders*git sts
 Files>change folder and search option>view>show hidden files
+
+git init
+git status
+git add . 
+git commit -m "message( what did you do)" (ex. git commit -m "added guides")
+
+git log shows you all the files that you saved. to exit press (q)
+get add . (add files due to change of name)
+
+git-scm.com/docs/git-commit website to show you all comands on git
+
+
+
 
 
 
