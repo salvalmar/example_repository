@@ -20,6 +20,8 @@ git init
 git status
 git add . 
 git commit -m "message( what did you do)" (ex. git commit -m "added guides")
+git push -u orgin master (1 time and then only apply git push)
+
 
 git log shows you all the files that you saved. to exit press (q)
 get add . (add files due to change of name)
@@ -28,7 +30,8 @@ git-scm.com/docs/git-commit website to show you all comands on git
 
 git remote -v (list any remote dipository)
 
-git push -u orgin master (1 time and then only apply git push)
+git clone (paste url) - to copy someones folder/file
+
 
 
 
