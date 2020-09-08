@@ -33,8 +33,18 @@ git remote -v (list any remote dipository)
 git clone (paste url) - to copy someones folder/file
 
 
+open a new file with visual studio code
+save it as a .HTML
+telling the computer that you will code HTML
 
+in visual studio make sure to save before you check you internet explorer.
 
+Paragraph element (<p>;</p>)
+Heading element (<h1>;</h1) these are generally the htitles of the website
+(<h2>;</h2>) can be the sections of the websites.
+h1 is more important than h2-h6.
+self closing tag <br /> breaks a line and is equivilent to pressing enter
+<!-- --> is a internal comment that will not show up on the web
 
 
 
